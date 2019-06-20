@@ -16,4 +16,27 @@ In my website I do not use flickering animations, however the purpose was to cre
 <img src='./assets/twitterAnimations.PNG' width='350' alt='Twitter settings'/>
 <img src='./assets/slack.png' width='800' alt='Slack settings'/>
 
-Eventough that is a great solution it is also important to think about the animations as to why their neccessary and do they really have to move that fast? For example the iOS 7 design caused some users motion sickness, due to intensive parallax and zoom animations. So eventhough iOS 7 was way ahead in accessability their design wasn't designed for users who suffer from motion sickness. Refering to the _'they just don't know what they don't know...'_
+Eventough that is a great solution it is also important to think about the animations as to why their neccessary and do they really have to move that fast? For example the iOS 7 design caused some users motion sickness, due to intensive parallax and zoom animations. So eventhough iOS 7 was way ahead in accessability their design wasn't designed for users who suffer from motion sickness. Refering to the _'they just don't know what they don't know...'_ Things that are constantly moving can also serve as an distraction from the content of your webpage, thus I probably should also want to stop the moving fish on my screen.
+
+### Color
+During my studies something that always stayed with me, is to not create hierarchy with colors, because not everyone is able to see them properly. I used mainly blue, while the main context is white for people with colorblindless this will provide enough contrast. However I might want to use a darker shade of blue to create even more contrast between colors. Then we have the matter of the jellyfish and all the hover animations. 
+
+![Colorblindness](./assets/colorblindness.webp)
+
+As you can see pink and orange do not provide a lot of contrast, when the user is suffering from colorblindness.
+
+![Color wheel](./assets/colorwheel.gif)
+
+But does provide enough contrast when orange is used with yellow. So I might want to change the colors or provide a colorblind control next to the 'stop animations' control, so the user can turn this on or off. Twitter also used a control to increase contrast between colors, which I also found a great idea. All these settings for Twitter can conveniently be found in the _'Accessability'_ tab. But when changing these colors, the contrast between yellow and white will be very hard to distinguish. Color will always be a tricky one, especially when dealing with branding. Websites like Trello provide contrast while using different patterns, so users are still able to distinguish the difference between colors, without actualy seeing them.
+
+### Fonts 
+As you can see I used a two different kind of fonts, both being decorative fonts to add a look and feel to the website, which is total bullocks if you want to make you website accessable. Yes you can create it with fonts, but you can also choose more readable fonts. For instance users who are dyslexic have a hard time distinguising small, cursive, capitalized letters and small spacing in a font. Being dyslexic myself I can totally vouch for this. I always make my font bigger make it easier to read. Thus it's also important to check if a font is scalable, especially since we use so many devices varying from large to small screens. So I definitely need to change the font of my website. Maybe ```'Arial'``` for my main context making it at least ```16px``` and adding another sans-serif font. Because these fonts are the best for people with dyslexia. 
+
+
+
+
+
+
+
+
+
