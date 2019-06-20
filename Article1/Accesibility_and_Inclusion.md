@@ -87,7 +87,7 @@ For this project I got a basic HTML template, so I immediately move on to stylin
 
     </section>
 ```
-This is how the code is looking right now. Creating articles in section is fine, but essentially it's a list of items you want your user to go through. Right now the screenreader doesn't know these are items that belong to a list. It's much wiser to create a list ```<ul>``` with list-items ```<li>`` that will contain the articles. However it was very smart to provide a header in a section, because a screenreader will recognize this as an introduction to this section. This will be an improved version of the code:
+This is how the code is looking right now. Creating articles in section is fine, but essentially it's a list of items you want your user to go through. Right now the screenreader doesn't know these are items that belong to a list. It's much wiser to create a list ```<ul>``` with list-items ```<li>``` that will contain the articles. However it was very smart to provide a header in a section, because a screenreader will recognize this as an introduction to this section. This will be an improved version of the code:
 
 ```html
 <section id="maincourse" class="l-column">
