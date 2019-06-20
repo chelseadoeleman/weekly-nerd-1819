@@ -40,7 +40,116 @@ It is also important create some sort of hierarchy in your textual content. I us
 ### Images
 The jellyfish in the background creates a meaning to the website: It's a menu of a fish restaurant. Tough right now it's not provided with an ```<img />``` element, because it's an svg, meaning it also has no ```alt``` text and can't be read by screenreaders. To make those users aware of what happens in the background you can create an hidden ```<img />``` element with an alt text describing the image, so the users that will make use of a screenreader will also be able to hear this. It's even possible to create a link for that image, so the user can get more information about that image, than just the alt text. Maybe even describing what happens in the animation. 
 
+### Structure
+For this project I got an basic HTML template, so I immediately move on to styling. In doing so I completely slipped my mind to check the HTML structure to see if it's accessable. Well I can tell you one thing... it's not.
 
+```html
+<section id="maincourse" class="l-column">
+
+		<header class="type-course">
+			<h2>Maincourse</h2>
+			<p>
+				To be shared
+			</p>
+		</header>
+
+		<article>
+			<h3>Smoked fish</h3>
+			<p>
+				<em>serves 3 - 4 people</em> with cream cheese, onion, tomato, capers &amp; 
+				new potato salad and Russ &amp; daughters bread basket
+			</p>
+			<div class="price">60</div>
+		</article>
+
+		<article>
+			<h3>The hattie</h3>
+			<p>
+				smoked whitefish, kippered (baked) salmon, gaspe nova smoked salmon, sable
+			</p>
+			<div class="price">80</div>
+		</article>
+
+		<article>
+			<h3>The ida</h3>
+			<p>
+				scottish smoked salmon, gaspe nova smoked salmon, pastrami-cured salmon, gravlox
+			</p>
+			<div class="price">70</div>
+		</article>
+
+		<article>
+			<h3>The anne</h3>
+			<p>
+				western nova smoked salmon, private stock sturgeon, sable, smoked brook trout, 
+				wild alaskan salmon roe
+			</p>
+			<div class="price">90</div>
+		</article>
+
+	</section>
+```
+This is how the code is looking right now. Creating articles in section is fine, but essentially it's a list of items you want your user to go through. Right now the screenreader doesn't know these are items that belong to a list. It's much wiser to create an list ```<ul>``` with list-items ```<li>`` that will contain the articles. However it was very smart to provide a header in a section, because a screenreader will recognize this as an introduction to this section. This will be an improved version of the code:
+
+```html
+<section id="maincourse" class="l-column">
+
+		<header class="type-course">
+			<h2>Maincourse</h2>
+			<p>
+				To be shared
+			</p>
+		</header>
+
+        <ul>
+            <li>
+                <article>
+			        <h3>Smoked fish</h3>
+			        <p>
+			        	<em>serves 3 - 4 people</em> with cream cheese, onion, tomato, capers &amp; 
+			        	new potato salad and Russ &amp; daughters bread basket
+			        </p>
+			        <div class="price">60</div>
+		        </article>
+            </li>
+            <li>
+                <article>
+			        <h3>The hattie</h3>
+			        <p>
+			        	smoked whitefish, kippered (baked) salmon, gaspe nova smoked salmon, sable
+			        </p>
+			        <div class="price">80</div>
+		        </article>
+            </li>
+            <li>
+                <article>
+			        <h3>The ida</h3>
+			        <p>
+			        	scottish smoked salmon, gaspe nova smoked salmon, pastrami-cured salmon, gravlox
+			        </p>
+			        <div class="price">70</div>
+		        </article> 
+            </li>
+            <li>
+                <article>
+			        <h3>The anne</h3>
+			        <p>
+			        	western nova smoked salmon, private stock sturgeon, sable, smoked brook trout, 
+			        	wild alaskan salmon roe
+			        </p>
+			        <div class="price">90</div>
+		        </article>
+            </li>
+        </ul>
+
+	</section>
+```
+
+## Conclusion
+* Animation are fun but use them wisely, so you don't cause any discomfort for the user or distract them.
+* Colors will always be tricky, especially in creative projects. Use colors wisely and make sure the purpose of the website won't change when not using any color by creating hierarchy without color. And always check contrast between colors.
+* Your content should always be readable for every user, by providing the right fonts and structure to your textual content.
+* When making a website accessable for a screenreader it is important to understand a screenreader so you can create a beter HTML structure.
 
 
 
