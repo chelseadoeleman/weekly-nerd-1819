@@ -29,8 +29,18 @@ As you can see pink and orange do not provide a lot of contrast, when the user i
 
 But does provide enough contrast when orange is used with yellow. So I might want to change the colors or provide a colorblind control next to the 'stop animations' control, so the user can turn this on or off. Twitter also used a control to increase contrast between colors, which I also found a great idea. All these settings for Twitter can conveniently be found in the _'Accessability'_ tab. But when changing these colors, the contrast between yellow and white will be very hard to distinguish. Color will always be a tricky one, especially when dealing with branding. Websites like Trello provide contrast while using different patterns, so users are still able to distinguish the difference between colors, without actualy seeing them.
 
-### Fonts 
-As you can see I used a two different kind of fonts, both being decorative fonts to add a look and feel to the website, which is total bullocks if you want to make you website accessable. Yes you can create it with fonts, but you can also choose more readable fonts. For instance users who are dyslexic have a hard time distinguising small, cursive, capitalized letters and small spacing in a font. Being dyslexic myself I can totally vouch for this. I always make my font bigger make it easier to read. Thus it's also important to check if a font is scalable, especially since we use so many devices varying from large to small screens. So I definitely need to change the font of my website. Maybe ```'Arial'``` for my main context making it at least ```16px``` and adding another sans-serif font. Because these fonts are the best for people with dyslexia. 
+### Fonts and readability
+As you can see I used a two different kind of fonts, both being decorative fonts to add a look and feel to the website, which is total bullocks if you want to make you website accessable. Yes you can create it with fonts, but you can also choose more readable fonts. For instance users who are dyslexic have a hard time distinguising small, cursive, capitalized letters and small spacing in a font. 
+Being dyslexic myself I can totally vouch for this. I always make my font bigger make it easier to read. Thus it's also important to check if a font is scalable, especially since we use so many devices varying from large to small screens. So I definitely need to change the font of my website. Maybe ```'Arial'``` for my main context making it at least ```16px``` and adding another sans-serif font. Because these fonts are the best for people with dyslexia. 
+
+It is also important create some sort of hierarchy in your textual content. I used headers to create a difference between an item on the menu and an explanation about that item and of course the different courses that are on the menu. It's also prefered to have 45 to a maximum of 75 characters on one line, too much makes it less readable, while having short lines may cause an eye strain because they have to switch between lines constantly.
+
+
+
+### Images
+The jellyfish in the background creates a meaning to the website: It's a menu of a fish restaurant. Tough right now it's not provided with an ```<img />``` element, because it's an svg, meaning it also has no ```alt``` text and can't be read by screenreaders. To make those users aware of what happens in the background you can create an hidden ```<img />``` element with an alt text describing the image, so the users that will make use of a screenreader will also be able to hear this. It's even possible to create a link for that image, so the user can get more information about that image, than just the alt text. Maybe even describing what happens in the animation. 
+
+
 
 
 
