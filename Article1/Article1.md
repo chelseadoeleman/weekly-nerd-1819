@@ -16,4 +16,4 @@ In my website I do not use flickering animations, however the purpose was to cre
 <img src='./assets/twitterAnimations.png' width='350' alt='Twitter settings'/>
 <img src='./assets/slack.png' width='800' alt='Slack settings'/>
 
-Eventough that is a great solution it is also important to think about the animations as to why their neccessary and do they really have to move that fast? For example the iOS 7 design caused some users motion sickness, due to intensive parallax and zoom animations. So eventhough iOS 7 was way ahead in accessability in wasn't really inclusive for users who suffer from motion sickness.
+Eventough that is a great solution it is also important to think about the animations as to why their neccessary and do they really have to move that fast? For example the iOS 7 design caused some users motion sickness, due to intensive parallax and zoom animations. So eventhough iOS 7 was way ahead in accessability their design wasn't designed for users who suffer from motion sickness. Refering to the _'they just don't know what they don't know...'_
