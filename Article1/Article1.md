@@ -1,5 +1,5 @@
 # How to create an accessable and inclusive design.
-For a certain course in the minor webdevelopment I created an website with mostly purely CSS. The purpose of this website was to create something fun, unique, crazy and just letting your creativity flow. And ofcourse educating yourself in the art that is CSS, which proved to be more difficult than I had originally anticipated. While that was all fun and games and I created something I was actually quite proud of, I need touch the subject of UX, accessability and inclusivity. Because interaction design is a subject I only briefly touched while I creating this website, but it could be more meaningfull for everybody when diving deeper into these subjects.
+For a certain course in the minor webdevelopment I created an website with mostly purely CSS. The purpose of this website was to create something fun, unique, crazy and just letting your creativity flow. And ofcourse educating yourself in the art that is CSS, which proved to be more difficult than I had originally anticipated. While that was all fun and games and I created something I was actually quite proud of, I need touch the subject of UX, accessability and inclusivity. Because interaction design is a subject I only briefly touched while I creating this website, but it could be more meaningfull for everybody when diving deeper into these subjects. I will try to improve my design with an article of [Smashing Magazine](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/) article as my guideline, about accessibility and inclusion.
 
 ![Jellyfish](./assets/jellyfish.png)
 
@@ -151,7 +151,15 @@ This is how the code is looking right now. Creating articles in section is fine,
 * Your content should always be readable for every user, by providing the right fonts and structure to your textual content.
 * When making a website accessable for a screenreader it is important to understand a screenreader so you can create a beter HTML structure.
 
+## Resources
+* [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+* [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/s)
+* [Why iOS 7 is making some users sick](https://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea)
+* [Micheal Osborne](https://twitter.com/MikeOzzy/status/930007559532138497)
+* [Why Color Blindness is No Longer a Problem for Web Design](https://www.templatemonster.com/blog/designing-colorblind-friendly-website/)
 
+* [Good Fonts for Dyslexia](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf)
+* [semantic html](https://internetingishard.com/html-and-css/semantic-html/)
 
 
 
