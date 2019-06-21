@@ -2,6 +2,7 @@
 Guest lectures during the minor webdevelopment.
 
 ## Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen
+
 <details>
     <summary>Sketchnotes</summary>
 
@@ -13,6 +14,7 @@ Guest lectures during the minor webdevelopment.
 <details>
 
 ## Stephan Hay over Design Patterns
+
 <details>
     <summary>Sketchnotes</summary>
 
@@ -23,6 +25,7 @@ Guest lectures during the minor webdevelopment.
 
 
 ## Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise
+
 <details>
     <summary>Sketchnotes</summary>
 
@@ -34,6 +37,7 @@ Guest lectures during the minor webdevelopment.
 Unfortunately I was sick at home this week.
 
 ## Ischa Gast over A11y
+
 <details>
     <summary>Sketchnotes</summary>
 
@@ -43,6 +47,7 @@ Unfortunately I was sick at home this week.
 <details>
 
 ## Workshop PE
+
 <details>
     <summary>Sketchnotes</summary>
 
@@ -51,6 +56,7 @@ Unfortunately I was sick at home this week.
 <details>
 
 ## Daan Rongen over afstuderen en je eigen signatuur behouden
+
 <details>
     <summary>Sketchnotes</summary>
 
