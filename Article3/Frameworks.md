@@ -1,6 +1,6 @@
 # Frameworks: Vue VS React
 
-In the final weeks of the minor web development you will get a project assigned to you, which you could choose to do individually or as a group project. As a group we decided to work with typescript and React as framework. One of us already works in the work field using these two together. The company I followed an internship with used the same combination. So there is already some experience there. The company that introduced the project to us personally use Vue as a framework with typescript. So why would you choose react and why would you choose to combine it with typescript? 
+In the final weeks of the minor web development you will get a project assigned to you, which you could choose to do individually or as a group project. As a group we decided to work with typescript and React as framework. One of us already works in the work field using these two together. The company I followed an internship with used the same combination. So there is already some experience there. The company that introduced the project to us personally use Vue as a framework with typescript. So why would you choose React to set up this project?
 
 ## What is a framework? 
 
@@ -9,6 +9,8 @@ Javascript is a multi-paradigm language. Which sounds really fancy, but vague be
 A framework is not to be confused with a javascript library, because a javascript library is essentially used functionally within you codebase, while a framework designs the application. It is a like the building foundation for your code, so you do not have to write everything from scratch. Within your framework you could call libraries from that framework that work neatly together. However using it can sometimes feel kind of magical, when you do not have a full understanding of vanilla javascript. Some frameworks live underneath all of your code, while others can be used for incremental use. Meaning you don't have to use them throughout your whole codebase, which leaves room for coding vanilla javascript. 
 
 ## React vs Vue
+
+![Frameworks](./assets/frameworks.png)
 
 Let's talk about React an Vue, because these are the two frameworks we had to choose between when setting up our codebase for this project.
 Both frameworks allow for incremental use, which makes them both really flexible. 
@@ -21,9 +23,13 @@ Because React has been on the market for sometime it has a large developer commu
 
 ### VUE 
 
+![Vue](./assets/vue.png)
+
 Vue is created by Evan You, who took al the good features from Angular implemented those into Vue. Actually Vue contains a lot of the best features in other frameworks, such as React, Angular (obviously) and Knockout. Which is why many people are enthusiastic about it. And above all it is lightweight! Vue can be used for single-page web-applications, without making you feel like you just bloated your whole project and complex web-applications. Vue also has the possibility to use it as an library (incremental use) or as a fully-fledged framework and it uses lifecycle hooks. One downside of Vue can be the documentation, since it is a fast evolving framework, documentation is easily outdated. And it's very new on the market, so there wasn't even much documentation to begin with. There also aren't a lot op plugins available right now that work together with Vue.  
 
 ### React 
+
+![React](./assets/react.svg)
 
 React is founded by facebook, but became by 2013 opensource. React works especially well, when using real-time data. React also make use of lifecycle hooks. There is a lot of documentation that can be found about React, making it quite easy for the user to learn or to look up problems. React as vue can also be seen as an library and work seamlessly together with other libraries, such a redux (state manager). React also has the possibility to reuse components, but kind of forces you to set up your code component based. Changes made in the child structure also does not affect the parents. One downside React also has, is that it is fast evolving. React also only JSX or TSX, but you cannot write native javascript, into a component. React also has some SEO issues, but these can be solved if you want to put some effort in it.
 
@@ -39,4 +45,15 @@ In the end I do think React was the right choice during this project, mainly bec
 
 
 ## Resources
-https://en.m.wikipedia.org/wiki/JavaScript_framework
+* [What is a framework?](https://en.m.wikipedia.org/wiki/JavaScript_framework)
+* [3 best frameworks](https://medium.com/cuelogic-technologies/top-3-best-javascript-frameworks-for-2019-3e6d21eff3d0)
+* [Paradigm](https://www.quora.com/What-does-it-mean-to-be-a-multi-paradigm-programming-language)
+* [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Javascript frameworks](https://hackr.io/blog/10-best-javascript-frameworks-2019/amp)
+* [What is a framework?](https://skillcrush.com/2018/07/23/what-is-a-javascript-framework/)
+* [Frameworks](https://risingstars.js.org/2017/en/#section-framework)
+* [Vue](https://en.wikipedia.org/wiki/Vue.js)
+* [React](https://nl.wikipedia.org/wiki/React)
+* [JSX](https://en.wikipedia.org/wiki/React_(JavaScript_library)#JSX)
+* [DOM data binding](https://stackoverflow.com/questions/16483560/how-to-implement-dom-data-binding-in-javascript)
+* [State of JS](https://2018.stateofjs.com/front-end-frameworks/overview/)
