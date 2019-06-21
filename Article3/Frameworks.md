@@ -1,4 +1,4 @@
-# Frameworks
+# Frameworks: Vue VS React
 
 In the final weeks of the minor web development you will get a project assigned to you, which you could choose to do individually or as a group project. As a group we decided to work with typescript and React as framework. One of us already works in the work field using these two together. The company I followed an internship with used the same combination. So there is already some experience there. The company that introduced the project to us personally use Vue as a framework with typescript. So why would you choose react and why would you choose to combine it with typescript? 
 
