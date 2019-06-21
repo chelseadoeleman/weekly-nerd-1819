@@ -9,6 +9,7 @@ Guest lectures during the minor webdevelopment.
 ![Week 1](./assets/week1.2.JPG)
 ![Week 1](./assets/week1.3.JPG)
 ![Week 1](./assets/week1.4.JPG)
+
 <details>
 
 ## Stephan Hay over Design Patterns
@@ -17,6 +18,7 @@ Guest lectures during the minor webdevelopment.
 
 ![Airbnb](./assets/airbnb.JPG)
 ![Airbnb](./assets/airbnb2.JPG)
+
 <details>
 
 
@@ -25,13 +27,11 @@ Guest lectures during the minor webdevelopment.
     <summary>Sketchnotes</summary>
 
 ![Matise](./assets/matise.JPG)
+
 <details>
 
 ## Maike Klip over ontwerpen voor vluchtelingen
-<details>
-    <summary>Sketchnotes</summary>
-
-<details>
+Unfortunately I was sick at home this week.
 
 ## Ischa Gast over A11y
 <details>
@@ -39,6 +39,7 @@ Guest lectures during the minor webdevelopment.
 
 ![Schiphol](./assets/schiphol1.2.JPG)
 ![Schiphol](./assets/schiphol.JPG)
+
 <details>
 
 ## Workshop PE
@@ -46,6 +47,7 @@ Guest lectures during the minor webdevelopment.
     <summary>Sketchnotes</summary>
 
 ![Voorhoede](./assets/voorhoede.jpg)
+
 <details>
 
 ## Daan Rongen over afstuderen en je eigen signatuur behouden
@@ -54,4 +56,5 @@ Guest lectures during the minor webdevelopment.
 
 ![Daan](./assets/daan2.HEIC)
 ![Daan](./assets/daan.HEIC)
+
 <details>
