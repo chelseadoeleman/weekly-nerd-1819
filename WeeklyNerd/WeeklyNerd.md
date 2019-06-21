@@ -11,7 +11,7 @@ Guest lectures during the minor webdevelopment.
 ![Week 1](./assets/week1.3.JPG)
 ![Week 1](./assets/week1.4.JPG)
 
-<details>
+</details>
 
 ## Stephan Hay over Design Patterns
 
@@ -21,7 +21,7 @@ Guest lectures during the minor webdevelopment.
 ![Airbnb](./assets/airbnb.JPG)
 ![Airbnb](./assets/airbnb2.JPG)
 
-<details>
+</details>
 
 
 ## Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise
@@ -31,7 +31,7 @@ Guest lectures during the minor webdevelopment.
 
 ![Matise](./assets/matise.JPG)
 
-<details>
+</details>
 
 ## Maike Klip over ontwerpen voor vluchtelingen
 Unfortunately I was sick at home this week.
@@ -44,7 +44,7 @@ Unfortunately I was sick at home this week.
 ![Schiphol](./assets/schiphol1.2.JPG)
 ![Schiphol](./assets/schiphol.JPG)
 
-<details>
+</details>
 
 ## Workshop PE
 
@@ -53,7 +53,7 @@ Unfortunately I was sick at home this week.
 
 ![Voorhoede](./assets/voorhoede.jpg)
 
-<details>
+</details>
 
 ## Daan Rongen over afstuderen en je eigen signatuur behouden
 
@@ -63,4 +63,4 @@ Unfortunately I was sick at home this week.
 ![Daan](./assets/daan2.HEIC)
 ![Daan](./assets/daan.HEIC)
 
-<details>
+</details>
